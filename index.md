@@ -26,7 +26,8 @@ Machine learning · multimodal sensing · bio-plausible neural networks · compu
 ## Links
 
 [GitHub](https://github.com/straybird16)  
-[CV](./assets/files/CV.pdf)  
+[Projects](./projects.html)
+[CV](./assets/files/CV.pdf)
 [LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/)  
 [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) 
 [Email](mailto:soaroriental@gmail.com)
