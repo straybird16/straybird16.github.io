@@ -1,0 +1,32 @@
+# Xiangdong Xie
+
+*Building machine learning methods for messy, real-world signals. Exploring neural networks that build upon the biology of human brain.*
+
+I am a PhD student in Computer Science at UMass Amherst working on multimodal sensing, applied machine learning, and neural networks. My work focuses on practical ML pipelines for noisy, asynchronous, and difficult-to-interpret real-world data.
+
+Recent projects include wearable pain assessment in older adults, senior-inclusive multimodal dataset development, and vision-based measurement systems for industrial applications.
+
+I am especially interested in representation learning, physiological signal analysis, and machine learning methods that are robust in real-world settings.
+
+## Selected Work
+
+### SILVER-pain
+A senior-inclusive multimodal dataset for pain assessment, combining physiological signals with depth and thermal recordings, and facial action units (FAUs) from RGB video.
+
+### Industrial Vision and Metrology
+Computer vision pipelines for measurement and analysis in roll-to-roll micro-contact printing and related sensing workflows.
+
+### Hand Pose Estimation
+Vision-based modeling for articulated hand analysis and related representation learning problems.
+
+## Research Interests
+
+Machine learning · multimodal sensing · bio-plausible neural networks · computer vision · physiological signal analysis
+
+## Links
+
+[GitHub](https://github.com/straybird16)  
+[CV](./assets/files/CV.pdf)  
+[LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/)  
+[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) 
+[Email](mailto:soaroriental@gmail.com)
