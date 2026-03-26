@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 980px;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  margin-bottom: 0.35em;
+}
+
+p, li {
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border-radius: 8px;
+}
+
+section {
+  margin-bottom: 1.4rem;
+}
+
+.markdown-body hr,
+hr {
+  margin: 2rem 0;
+  opacity: 0.35;
+}
+
+code, pre {
+  font-size: 0.95em;
+}
