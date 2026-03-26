@@ -1,4 +1,4 @@
-# Xiangdong (Peter) Xie
+# About
 
 PhD Student in Computer Science at UMass Amherst
 
