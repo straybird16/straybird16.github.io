@@ -1,15 +1,15 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 body {
   font-size: 16px;
   line-height: 1.7;
+  color: #222;
 }
 
 .wrapper {
-  max-width: 980px;
+  max-width: 900px;
 }
 
 h1, h2, h3 {
@@ -17,7 +17,14 @@ h1, h2, h3 {
 }
 
 h1 {
-  margin-bottom: 0.35em;
+  margin-bottom: 0.2em;
+  font-size: 2.1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
 }
 
 p, li {
@@ -32,18 +39,21 @@ a:hover {
   text-decoration: underline;
 }
 
+a::after {
+  content: none !important;
+}
+
 img {
   border-radius: 8px;
 }
 
 section {
-  margin-bottom: 1.4rem;
+  margin-bottom: 1.6rem;
 }
 
-.markdown-body hr,
 hr {
   margin: 2rem 0;
-  opacity: 0.35;
+  opacity: 0.2;
 }
 
 code, pre {
