@@ -1,12 +1,14 @@
 # Xiangdong (Peter) Xie
 
-*Building machine learning methods for messy, real-world signals. Exploring neural networks that build upon the biology of human brain.*
+PhD Student in Computer Science at UMass Amherst
 
-I am a PhD student in Computer Science at UMass Amherst working on multimodal sensing, applied machine learning, and neural networks. My work focuses on practical ML pipelines for noisy, asynchronous, and difficult-to-interpret real-world data.
+*Building machine learning methods for messy, real-world signals. Exploring neural networks that build upon the biology of human brain.*
 
 Recent projects include wearable pain assessment in older adults, senior-inclusive multimodal dataset development, and vision-based measurement systems for industrial applications.
 
 I am especially interested in representation learning, physiological signal analysis, and machine learning methods that are robust in real-world settings.
+
+[GitHub](https://github.com/straybird16)￼ · [Projects](./projects.html)￼ · [CV](./assets/files/CV.pdf)￼ · [LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/)￼ · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ)￼ · [Email](mailto:soaroriental@gmail.com)￼
 
 ## Selected Work
 
@@ -21,13 +23,4 @@ Vision-based modeling for articulated hand analysis and related representation l
 
 ## Research Interests
 
-Machine learning · multimodal sensing · bio-plausible neural networks · computer vision · physiological signal analysis
-
-## Links
-
-[GitHub](https://github.com/straybird16)  
-[Projects](./projects.html)
-[CV](./assets/files/CV.pdf)
-[LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/)  
-[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) 
-[Email](mailto:soaroriental@gmail.com)
+Machine Learning · Multimodal Sensing · Physiological Signals · Bio-plausible neural networks · Computer vision
