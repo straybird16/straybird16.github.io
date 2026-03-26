@@ -1,16 +1,17 @@
 # About
 
-PhD Student in Computer Science at UMass Amherst
-
 *Building machine learning methods for messy, real-world signals. Exploring neural networks that build upon the biology of human brain.*
 
-Recent projects include wearable pain assessment in older adults, senior-inclusive multimodal dataset development, and vision-based measurement systems for industrial applications.
+I am a PhD Student in Computer Science at UMass Amherst working at [Intelligent Sensing Lab](https://websites.umass.edu/xiandu/), advised by [Prof. Xian Du](https://www.umass.edu/ials/people/xian-du) and [Prof. Erik Learned-Miller](https://people.cs.umass.edu/~elm/). I work on deep learnning and intelligent sensing for noisy, asynchronous, and hard-to-interpret real-world signals, 
+
+My recent projects include wearable pain assessment in older adults, senior-inclusive multimodal dataset development, and vision-based measurement systems for industrial applications.
 
 I am especially interested in representation learning, physiological signal analysis, and machine learning methods that are robust in real-world settings.
 
 [GitHub](https://github.com/straybird16) · [Projects](./projects.html) · [CV](./assets/files/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/) · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) · [Email](mailto:soaroriental@gmail.com)
 
 # Selected Work
+
 
 ### SILVER-pain
 A senior-inclusive multimodal dataset for pain assessment, combining physiological signals with depth and thermal recordings, and facial action units (FAUs) from RGB video.
