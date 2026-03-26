@@ -10,7 +10,7 @@ I am especially interested in representation learning, physiological signal anal
 
 [GitHub](https://github.com/straybird16) · [Projects](./projects.html) · [CV](./assets/files/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/xiangdong-xie-9621a4200/) · [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=o9N_NpcAAAAJ) · [Email](mailto:soaroriental@gmail.com)
 
-## Selected Work
+# Selected Work
 
 ### SILVER-pain
 A senior-inclusive multimodal dataset for pain assessment, combining physiological signals with depth and thermal recordings, and facial action units (FAUs) from RGB video.
