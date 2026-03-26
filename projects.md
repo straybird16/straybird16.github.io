@@ -16,15 +16,15 @@ A senior-inclusive multimodal pain dataset designed for machine learning researc
 
 ---
 
-## Industrial Vision and Metrology
-Computer vision workflows for industrial measurement and analysis, including width estimation and image-based quality assessment for roll-to-roll micro-contact printing and related systems.
+## Measurement and Quality Control of Roll-to-Roll Microcontact Printing
+Computer vision workflows for industrial measurement and analysis, including width estimation and image-based quality assessment for roll-to-roll micro-contact printing and related systems, via condensation figures and YOLOv8.
 
 **Focus:** computer vision, measurement pipelines, applied ML, industrial sensing  
-**Link:** [GitHub Profile](https://ieeexplore.ieee.org/abstract/document/11197938)
+**Link:** [IEEE-TII](https://ieeexplore.ieee.org/abstract/document/11197938)
 
 ---
 
-## Hand Pose Estimation (class project)
+## Lightweight Hand Pose Estimation (class project)
 A vision-based modeling project for articulated hand analysis, focused on learning-based pose estimation and representation of complex geometric structure with a lightweight backbone.
 
 **Focus:** hand pose estimation, computer vision
