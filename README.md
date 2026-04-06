@@ -4,8 +4,10 @@ Personal academic/research website for Xiangdong (Peter) Xie.
 
 ## Structure
 
-- `index.md`: homepage
-- `projects.md`: selected projects
+- `index.md`: homepage (English)
+- `projects.md`: selected projects (English)
+- `zh/index.md`: homepage (简体中文)
+- `zh/projects.md`: selected projects (简体中文)
 - `_config.yml`: Jekyll/GitHub Pages configuration
 - `assets/css/style.scss`: style overrides
 - `assets/files/`: CV and downloadable files

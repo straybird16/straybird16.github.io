@@ -4,15 +4,13 @@ title: Projects
 
 # Selected Projects
 
+🌐 **Language / 语言：** [English](./projects.html) | [简体中文](./zh/projects.html)
+
 ## SILVER-pain
 A senior-inclusive multimodal pain dataset designed for machine learning research on pain assessment. The dataset combines wearable physiological signals with RGB, depth, and thermal recordings, with an emphasis on realistic sensing conditions and broader age representation.
 
 **Focus:** multimodal sensing, physiological signals, dataset design, robust and clinically-meaningful evaluation  
-**Links:** 
-
-[Dataset](https://data.mendeley.com/datasets/m38f8ydn49)
-[Repository](https://github.com/straybird16/SILVER-pain)
-[Related Poster](https://massaitc.org/2026/01/14/14-intelligent-non-invasive-pain-assessment-towards-frailty-prevention-in-communication-impaired-populations/)
+**Links:** [Dataset](https://data.mendeley.com/datasets/m38f8ydn49) · [Repository](https://github.com/straybird16/SILVER-pain) · [Related Poster](https://massaitc.org/2026/01/14/14-intelligent-non-invasive-pain-assessment-towards-frailty-prevention-in-communication-impaired-populations/)
 
 ---
 
@@ -27,7 +25,7 @@ Computer vision workflows for industrial measurement and analysis, including wid
 ## Lightweight Hand Pose Estimation (class project)
 A vision-based modeling project for articulated hand analysis, focused on learning-based pose estimation and representation of complex geometric structure with a lightweight backbone.
 
-**Focus:** hand pose estimation, computer vision
+**Focus:** hand pose estimation, computer vision  
 **Link:** [Repository](https://github.com/straybird16/Hand-Pose-Estimation-Model)
 
 ---
